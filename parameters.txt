@@ -1,0 +1,9 @@
+populationSize=1000
+interactionRate=0.3
+infectionRate=0.15
+initialInfectionRate=0.1
+recoveryRate=0.5
+vaccinationRate=0.01
+mutationRate=0.9
+totalSteps=50
+
